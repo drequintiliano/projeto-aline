@@ -11349,11 +11349,11 @@ textarea.form-control-lg {
   position: relative;
 }
 
-ul {
+.servico {
     list-style: none
 }
 
-ul li:before {
+.servico li:before {
     content: '\2022';
     margin: 0 2px;
     color: #4e9ca1;
