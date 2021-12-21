@@ -11368,3 +11368,8 @@ textarea.form-control-lg {
 .bold-light {
     font-weight: 500;
 }
+
+.horario {
+    display: inline-block !important;
+    width: auto;
+}
