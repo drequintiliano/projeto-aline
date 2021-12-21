@@ -11360,6 +11360,11 @@ textarea.form-control-lg {
     padding: 8px;
 }
 
+.font-registro {
+    font-size: 12px;
+    color: gray;
+}
+
 .bold-light {
     font-weight: 500;
 }
